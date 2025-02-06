@@ -1,7 +1,7 @@
 This repository contains a SQL database schema and an Entity-Relationship (E-R) model, designed as part of a Data Analysis course project.
 The schema models a simple product management system, including categories, products, sales, and geographical distribution.
 
-📌 Project Overview
+## 📌 Project Overview
 The database ESAMEToysGroup is structured to manage:
 •	Products and their categories
 •	Sales transactions, including quantity, price, and date

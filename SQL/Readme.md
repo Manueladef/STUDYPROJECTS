@@ -1,4 +1,4 @@
-This repository contains a SQL database schema and an Entity-Relationship (E-R) model, designed as part of a Data Analysis course project.
+This directory contains a SQL database schema and an Entity-Relationship (E-R) model, designed as part of a Data Analysis course project.
 The schema models a simple product management system, including categories, products, sales, and geographical distribution.
 
 ## 📌 Project Overview

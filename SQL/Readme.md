@@ -3,19 +3,19 @@ The schema models a simple product management system, including categories, prod
 
 ## 📌 Project Overview
 The database ESAMEToysGroup is structured to manage:
-•	Products and their categories
-•	Sales transactions, including quantity, price, and date
-•	Regions and countries for product distribution
-•	Relationships between these entities using primary and foreign keys
+* Products and their categories
+* Sales transactions, including quantity, price, and date
+* Regions and countries for product distribution
+* Relationships between these entities using primary and foreign keys
 
 ## 🛠️ Key Features
-✔ Normalized relational design for efficient querying
-✔ Primary & Foreign Key constraints for data integrity
-✔ Entity-Relationship diagram (E-R model) for visualizing database structure
+✔ Normalized relational design for efficient querying <br />
+✔ Primary & Foreign Key constraints for data integrity <br />
+✔ Entity-Relationship diagram (E-R model) for visualizing database structure <br />
 
 ## 📂 Files Included
-•	MDF_EsercizioFinale.sql: SQL script to create and structure the database
-•	E-R schema.png: Entity-Relationship diagram for database visualization
+* `MDF_EsercizioFinale.sql` : SQL script to create and structure the database
+* `E-R schema.png`: Entity-Relationship diagram for database visualization
 
 ## 🚀 Getting Started
 To set up the database:
